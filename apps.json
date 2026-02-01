@@ -1,17 +1,18 @@
 {
   "name": "MVVEM Source",
   "identifier": "com.mth.mavilleverteetmoi.source",
+{
   "apps": [
     {
-      "name": "EsportBet",
+      "name": "Ma Ville Verte Et Moi",
       "bundleIdentifier": "com.mth.mavilleverteetmoi",
       "developerName": "MTH",
       "version": "1.0",
-      "versionDate": "2026-02-01",
-      "downloadURL": "https://raw.githubusercontent.com/RomainF17/EsportBetAltstore/main/AppPari.ipa",
-      "iconURL": "https://raw.githubusercontent.com/RomainF17/EsportBetAltstore/main/icon.png",
-      "localizedDescription": "Paris sur l'Esport",
-      "size": 16043213
+      "versionDate": "2026-02-01T00:00:00Z",
+      "downloadURL": "https://raw.githubusercontent.com/RomainF17/MvvemAltstore/main/MVVET.ipa",
+      "iconURL": "https://raw.githubusercontent.com/RomainF17/MvvemAltstore/main/icone.png",
+      "description": "Application Ma Ville Verte Et Moi",
+      "size": 24746394
     }
   ]
 }
