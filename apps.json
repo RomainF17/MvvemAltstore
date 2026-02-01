@@ -1,0 +1,17 @@
+{
+  "name": "MVVEM Source",
+  "identifier": "com.mth.mavilleverteetmoi.source",
+  "apps": [
+    {
+      "name": "EsportBet",
+      "bundleIdentifier": "com.mth.mavilleverteetmoi",
+      "developerName": "MTH",
+      "version": "1.0",
+      "versionDate": "2026-02-01",
+      "downloadURL": "https://raw.githubusercontent.com/RomainF17/EsportBetAltstore/main/AppPari.ipa",
+      "iconURL": "https://raw.githubusercontent.com/RomainF17/EsportBetAltstore/main/icon.png",
+      "localizedDescription": "Paris sur l'Esport",
+      "size": 16043213
+    }
+  ]
+}
