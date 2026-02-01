@@ -11,6 +11,10 @@
       "downloadURL": "https://raw.githubusercontent.com/RomainF17/MvvemAltstore/main/MVVET.ipa",
       "iconURL": "https://raw.githubusercontent.com/RomainF17/MvvemAltstore/main/icone.png",
       "description": "Application Ma Ville Verte Et Moi",
+      "localizedDescription": {
+        "fr": "Application Ma Ville Verte Et Moi",
+        "en": "Ma Ville Verte Et Moi application"
+      },
       "size": 24746394
     }
   ]
